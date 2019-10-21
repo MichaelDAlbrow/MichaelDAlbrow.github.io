@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Michael Albrow
 
-You can use the [editor on GitHub](https://github.com/MichaelDAlbrow/MichaelDAlbrow.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://www.canterbury.ac.nz/science/contact-us/people/1491883343260_Michael-Albrow-staff-profile-low.jpg" width="200">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am an astrophysicist at the [University of Canterbury](http:canterbury.ac.nz).
 
-### Markdown
+My research is in mainly in the field of gravitational microlensing, and I am part of the KMTNet collaboration.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MichaelDAlbrow/MichaelDAlbrow.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - [github code archive](https://github.com/MichaelDAlbrow)
+ - [publications](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=%20author%3A%22Albrow%2C%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+ 
