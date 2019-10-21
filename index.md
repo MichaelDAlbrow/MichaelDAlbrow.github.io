@@ -8,12 +8,12 @@ My research is in mainly in the field of gravitational microlensing, and I am pa
 
 I have written several software packages (available from the github archive below) that may be useful to astronomers and others:
 
- - #pyDIA# is a modular python package for performing star detection, difference imaging and photometry on astronomical images.
+ - *pyDIA* is a modular python package for performing star detection, difference imaging and photometry on astronomical images.
 
- - #SingleLensFitter# is a code for fitting single-lens microlensing events with data from multiple sources. Finite source effects can be 
+ - *SingleLensFitter* is a code for fitting single-lens microlensing events with data from multiple sources. Finite source effects can be 
    included.
 
- - #Metropolis Now# is a general purpose adaptive step size Metropolis-Hastings sampler. The code runs multiple parallel Markov chains, 
+ - *Metropolis Now* is a general purpose adaptive step size Metropolis-Hastings sampler. The code runs multiple parallel Markov chains, 
    and proposal distributions can be based on indvidual chains or the ensemble.
 
 
