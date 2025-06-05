@@ -1,6 +1,6 @@
 ## Michael Albrow
 
-<img src="https://www.canterbury.ac.nz/science/contact-us/people/1491883343260_Michael-Albrow-staff-profile-low.jpg" width="200">
+<img src="https://github.com/MichaelDAlbrow.png" width="200">
 
 I am an astrophysicist at the [University of Canterbury](http:canterbury.ac.nz).
 
